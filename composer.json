@@ -1,7 +1,7 @@
 {
   "name": "artemboyko43/test_core",
   "description": "Test Code",
-  "type": "drupal-module",
+  "type": "drupal-qt-module",
   "require": {
     "php": ">=5.3.0"
   },

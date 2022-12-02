@@ -1,0 +1,16 @@
+{
+  "name": "artemboyko43/test_core",
+  "description": "Test Code",
+  "type": "drupal-module",
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "Artem Boiko",
+      "email": "artemboyko43@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+}
